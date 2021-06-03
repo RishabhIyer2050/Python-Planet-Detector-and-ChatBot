@@ -2,6 +2,7 @@
 
 <p>The project uses a picture as an input and detects which planet it is, using Machine Learning. The Planet Recognition system consists of a pertained ResNet50 Model with its last layer replaced by a softmax unit of 10 units. The model is Built using the Keras library. The weights of the ResNet50 are set to non-trainable while the the weights of the softmax unit are trained using a small image dataset of planets downloaded from google images.</p>
 <p>There is also a python chatbot which can crack jokes, greet you etc. We built the GUI using Tkinter library of Python. The ChatBot is built using NLTK which is a Natural Language Toolkit in python. It is a rule based chatbot that replies to simple questions like: ”What is your name?”, “Tell me a joke”, “Tell me a fact”. It is able to reply to simple questions by the user.</p>
+<p>Devpost Link: https://devpost.com/software/planet-recognition-and-chatbot </p>
 
 # Steps to run the project
 <ol>
